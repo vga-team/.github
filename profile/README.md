@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+### Project Namespaces
+Project namespaces are prefixed with `<namespace>_` except the default VGA namespace.
+
+- __Default VGA__ - no prefix
+- __GWF Vis__ - prefixed with `gwf-vis_`
+
 <!--
 
 **Here are some ideas to get you started:**
